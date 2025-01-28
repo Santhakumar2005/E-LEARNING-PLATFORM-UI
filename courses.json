@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Web Development",
+      "description": "Learn HTML, CSS, and JavaScript from scratch.",
+      "content": "HTML, CSS, JavaScript, React, Node.js",
+      "time": "6 months",
+      "fee": "$300",
+      "image": "course1.jpg"
+    },
+    {
+      "title": "Data Science",
+      "description": "Master Python and data analysis techniques.",
+      "content": "Python, Pandas, Machine Learning, Deep Learning",
+      "time": "8 months",
+      "fee": "$400",
+      "image": "course2.jpg"
+    },
+    {
+      "title": "Graphic Design",
+      "description": "Create stunning visuals with professional tools.",
+      "content": "Photoshop, Illustrator, Figma, Typography",
+      "time": "4 months",
+      "fee": "$250",
+      "image": "course3.jpg"
+    }
+  ]
+  
